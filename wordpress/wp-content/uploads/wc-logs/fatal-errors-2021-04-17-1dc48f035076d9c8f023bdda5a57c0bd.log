@@ -1,0 +1,4 @@
+2021-04-17T12:13:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\word\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2021-04-17T12:24:58+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\word\wordpress\wp-includes\Requests\Transport\cURL.php on line 463
+
